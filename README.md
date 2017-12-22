@@ -1,4 +1,4 @@
-# This is the Knacksack Problem solved using Genetic optimization algorithm
+# This is the Knapsack Problem solved using Genetic optimization algorithm
 More data can be found [here](http://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html)
 
 Requirements: 
